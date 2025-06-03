@@ -22,4 +22,5 @@ Over the years, I realized that technology has always been my strong suit and I 
 
 ## 📫 How to reach me . . . 
 **Email**:  ryankgarcia22@gmail.com
+
 **LinkedIn**:  https://www.linkedin.com/in/ryan-k-garcia/
