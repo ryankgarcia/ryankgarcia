@@ -2,7 +2,7 @@
 
 I’m a graduate of the LearningFuze Web Development Program, where I learned how to build user-friendly full stack applications. Before transitioning into tech, I studied Business Administration and spent a few years in different business roles which have all added to my diverse understanding of business management and operations. 
 
-Over the years, I realized that technology has always been my strong suit and I wanted to pursue a career where I could grow and contribute at a high level. Throughout my life I had always been drawn to tech and knew I was going to end up taking this path as I enjoy solving problems and learning new things each day.
+Over the years, I realized that technology has always been my strong suit and I wanted to pursue a career where I could grow and contribute at a high level. Throughout my life I have always been drawn to tech and knew I was going to end up taking this path as I enjoy solving problems and learning new things each day.
 
 ## 📚 Tech Stack
 <!-- Top Row -->
@@ -21,5 +21,5 @@ Over the years, I realized that technology has always been my strong suit and I 
 
 
 ## 📫 How to reach me . . . 
-**Email**:  (ryankgarcia22@gmail.com)
-**LinkedIn**:  (https://www.linkedin.com/in/ryan-k-garcia/)
+**Email**:  ryankgarcia22@gmail.com
+**LinkedIn**:  https://www.linkedin.com/in/ryan-k-garcia/
